@@ -1,5 +1,5 @@
 # 💀 majestic-hud
-FiveM Standalone / QBCore / ESX Prodigy 2.0 Hud System
+FiveM Standalone / QBCore / ESX (soon) Prodigy 2.0 Hud System
 ## 👀 Preview
 
 
