@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game "gta5"
 
-description 'SkeletonNetworks'
+description 'MajesticDev + Skeleton Network'
 version '1.0.0'
 lua54 'yes'
 
